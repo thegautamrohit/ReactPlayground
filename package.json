@@ -1,0 +1,22 @@
+{
+  "name": "reactplayground",
+  "version": "1.0.0",
+  "description": "React Playground",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegautamrohit/ReactPlayground.git"
+  },
+  "author": "Rohit Gautam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thegautamrohit/ReactPlayground/issues"
+  },
+  "homepage": "https://github.com/thegautamrohit/ReactPlayground#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
